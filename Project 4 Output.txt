@@ -1,0 +1,83 @@
+Original Order
+Anne       150
+Bob        250
+Ralph      305
+Tim        250
+Barbara    85
+Jane       160
+Steve      180
+Tom        210
+Mike       165
+Shirley    155
+Pam        125
+Frank      130
+
+People who got on the elevator
+Anne       150
+Bob        250
+Ralph      305
+Tim        250
+Barbara    85
+
+TOTAL WEIGHT: 1040
+The number of people who got on the elevator is 5
+
+--------------------------------------------
+Arrays sorted in ascending sequence by weight
+Barbara    85
+Pam        125
+Frank      130
+Anne       150
+Shirley    155
+Jane       160
+Mike       165
+Steve      180
+Tom        210
+Tim        250
+Bob        250
+Ralph      305
+
+People who got on the elevator
+Barbara    85
+Pam        125
+Frank      130
+Anne       150
+Shirley    155
+Jane       160
+Mike       165
+
+TOTAL WEIGHT: 970
+The number of people who got on the elevator is 7
+
+--------------------------------------------
+Arrays sorted in descending sequence by name
+Tom        210
+Tim        250
+Steve      180
+Shirley    155
+Ralph      305
+Pam        125
+Mike       165
+Jane       160
+Frank      130
+Bob        250
+Barbara    85
+Anne       150
+
+People who got on the elevator
+Tom        210
+Tim        250
+Steve      180
+Shirley    155
+Ralph      305
+
+TOTAL WEIGHT: 1100
+The number of people who got on the elevator is 5
+
+--------------------------------------------
+The method allowing the most people on the elevator is:
+Ascending order by weight
+
+
+Coded by Christopher Dennis
+Press any key to continue . . .
